@@ -1,0 +1,957 @@
+entryDate,id,isbn,author,name,year,publisher,pages,price,remark,status
+11-06-15,IT-01,-,Nathan Thomas,"Linux Programming Tutorials: Devoloping in Linux, GDB,Phreads and IPC Communication",-,-,-,,,A
+11-06-15,IT-02,-,-,Red Hat Cluster Manager Installation Guide,-,Red Hat Publication,-,,,A
+11-06-15,IT-03,-,-,Red Hat Linux Customization Guide,-,Red Hat Publication,-,,,A
+11-06-15,IT-04,-,-,Red Hat Linux Security Guide,-,Red Hat Publication,-,,,A
+11-06-15,IT-05,-,-,Red Hat Linux Reference Guide,-,Red Hat Publication,-,,,A
+11-06-15,IT-06,-,-,Configuring and Managing a Cluster,-,Red Hat Publication,-,,,A
+11-06-15,IT-07,-,-,Linux Network Administrators Guide,-,-,-,,,A
+11-06-15,IT-08,-,"Mark Mitchell
+Jeffrey Oldham
+And Flex Samuel", Advanced Linux Programming,"1st
+2001",Pearson Education,-,,,A
+11-06-15,IT-09,-,-,Microsoft Product Support Services,-,-,-,,,A
+11-06-15,IT-10,9.78813E+12,"Bill Fenner
+W. Richard Stevens
+Andrew M. Rudoff",Unix Network Programming The Socket Networkin API,"3rd
+2009",Pearson Education,976,,,A
+11-06-15,IT-11,8178087316,Maurice J. Bach,The Design of theUnix Operating System,"2nd
+2003",Pearson Education,471,,,A
+11-06-15,IT-12,-,-,Red Hat Enterprises Linux Essential,2007,Red Hat Publication,409,,,A
+11-06-15,IT-13,-,-,Red Hat Network Services and Security Administration,2007,Red Hat Publication,359,,,A
+11-06-15,IT-14,-,-,Red Hat Enterprises Linux System Administration,2007,Red Hat Publication,315,,,A
+11-06-15,IT-15,9.78813E+12,Christopher Negus,Fedora9 and Red Hat Enterprise Linux Bible,2008,Willey India,1080,,,A
+11-06-15,IT-16,9.78007E+12,Sumitabha Das,Unix Concepts and Applications,"4th
+2008",Tata MC Graw Hill,671,,,A
+11-06-15,IT-17,8131700054,"W. Richard Stevens
+Stephen A. Rago",Advanced Programming in the Unix Environment,"2nd 
+2007",Pearson Education,921,,,A
+11-06-15,IT-18,9.78813E+12,Arnold Robbins,Linux Programming by Examples The Fundamentals,"2nd 
+2008",Pearson Education,719,,,A
+11-06-15,IT-19,0070499284,Paul A. Watter's,Solaris 9 Administration A Beginner's Guide,2002,Tata MC Graw Hill,612,,,A
+11-06-15,IT-20,9.78818E+12,A. Ramasatish,Unix Programming,2009,Scitech Publication India,-,,,A
+11-06-15,IT-21,9.78007E+12,Sumitabha Das,Unix Concepts and Applications,"4th 
+2009",Tata MC Graw Hill,671,300,,A
+11-06-15,IT-22,8177587455,M. G. Vankateshmurthy,Introduction to Unix and Shell Programming ,"2nd 
+2007",Pearson Education,375,,,A
+11-06-15,IT-23,9.78007E+12,Richard Petersen,The Complete Reference Ubuntu,2009,Tata MC Graw Hill,722,,,A
+11-06-15,IT-24,812032062X,W. Richard Stevens ,Unix Network Programming Interprocess Communication,2nd,PHI India,558,195,,A
+11-06-15,IT-25,8129700743,"Brian W. Kernighan
+Rob Pike",The Unix Programming Environment,"2nd
+2004",Pearson Education,357,,,A
+11-06-15,IT-26,8120314689,Tarrence Chan,Unix System Programming Using C++,2004,PHI India,598,250,,A
+11-06-15,IT-27,9.78812E+12,Andrew S. Tenenbaum,Modern Operating Systems,"3rd
+2012",PHI India,1076,450,,A
+11-06-15,IT-28,8177581678,H. M. Deitel,Operating Systems,"2nd
+2006",Pearson Education,853,325,,A
+11-06-15,IT-29,9.78813E+12,"Sibsankar Haldar
+Alex A. Arvind",Operating Systems,2009,Pearson Education,577,,,A
+11-06-15,IT-30,8120320638,Andrew S. Tenenbaum,Modern Operating Systems,"2nd
+2004",PHI India,951,250,,A
+11-06-15,IT-31,9812531769,"Peter Baer Galvin
+Greg Gagne
+Abraham Silberschatz",Operating Systems Principles,"7th
+2006",Willey India,896,,,A
+11-06-15,IT-32,,,,,,,,,A
+11-06-15,IT-33,8120327969,William Stallings,"Operating Systems
+Internal and Design Principles","5th
+2005",PHI India,818,325,,A
+11-06-15,IT-34,9.78813E+12,William Stallings,"Operating Systems
+Internal and Design Principles","6th
+2011",PHI India,822,,,A
+11-06-15,IT-35,9.78813E+12,"Nabendu Chaki
+Gary Nutt
+Sarmistha Neogy",Operating Systems,"3rd 
+2009",Pearson Education,806,,,A
+11-06-15,IT-36,9.78813E+12,"Abraham Silberschatz
+Peter B. Galvin
+Greg Gagne",Operating System Concepts,"8th
+2010",Willey India,972,,,A
+11-06-15,IT-37,8120323068,Pramod Chandra P. Bhatt," An Introduction to Operating Systems
+Concepts and Practice","2nd
+2003",PHI India,297,,,A
+11-06-15,IT-38,8120329554,"Andrew S. Tenenbaum
+Albert S. Woodhull",Operating Systems Design and Implementation,"3rd 
+2006",PHI India,1054,,,A
+11-06-15,IT-39,8129706148,Garry Nutt,Operating Systems,"3rd 
+2004",Pearson Education,894,,,A
+11-06-15,IT-40,0070611947,D. M. Dhamdhere,"Opreting Systems
+A Concept Based Approach","2nd
+2006",Tata MC Graw Hill,789,-,,A
+11-06-15,IT-41,0070483329,"J. Archer Harris
+Schaum's Outline Series",Operating Systems,2007,Tata MC Graw Hill,234,,,A
+11-06-15,IT-42,9.78813E+12,Brian L. Stuart,"Operating Systems
+Principles Design and Applications",2009,Course Technology,470,,,A
+11-06-15,IT-43,0070472688,"Mukesh Singhal 
+Niranjan G. Shivaratri",Advanced Concepts in Operating Systems,2005,Tata MC Graw Hill,522,-,,A
+11-06-15,IT-44,8131707105,"Davis 
+Rajkumar","Operating Systems 
+A Systematic View","6th
+2007",Pearson Education,688,,,A
+11-06-15,IT-45,8120312414,"Andrew S. Tenenbaum
+Albert S. Woodhull","Operating Systems 
+Design and Implementation","2nd
+2003",PHI India,939,395,,A
+11-06-15,IT-46,9.78813E+12,"Ida M. Flynn
+Ann mclvermchoes",Understanding Operating Systems,"4th
+2007",Thomson Course Technology,555,,,A
+11-06-15,IT-47,9.78007E+12,"Archer J. Harris
+Shaum's Outline Series",Operating Systems,"2nd
+2008",Tata MC Graw Hill,294,,,A
+11-06-15,IT-48,9.78126E+12,D. M. Dhamdhere,"Operating Systems
+A Concepts Based Approach","3rd 
+2009",Tata MC Graw Hill,828,,,A
+11-06-15,IT-49,9.71812E+12,Pramod Chandra P. Bhatt,"An Introduction to Operating Systems
+Concepts and Practice","3rd
+2012",PHI India,800,375,,A
+11-06-15,IT-50,9.78007E+12,"Achyut S. Godbole
+Atul Kahate",Operating Systems,"3rd 
+2010",Tata MC Graw Hill,665,,,A
+12-06-15,IT-51,9.78007E+12,"Elmasri
+Carrick
+Levine","Operating Systems
+A Spiral Approach",2010,Tata MC Graw Hill,526,,,A
+12-06-15,IT-52,0074635514,Charle Crowley,"Operating Systems
+A Design Oriented Approach",2007,Tata MC Graw Hill,844,,,A
+12-06-15,IT-53,9.78007E+12,"Elmasri
+Carrick
+Levine","Operating Systems
+A Spiral Approach",2010,Tata MC Graw Hill,526,,,A
+12-06-15,IT-54,-,Garry Nutt,Operating System Solution Manual,3rd,-,-,,,A
+12-06-15,IT-55,-,"James L. Peterson
+Abraham Silberschatz",Operating System Concepts,2nd,Addison Westley,-,,,A
+12-06-15,IT-56,-,"A. Siberschatz
+G. Gagne",Operating System Concepts,7th,Addison Westley,1042,,,A
+12-06-15,IT-57,-,A. S. Tenenbaum,Modern Operating Systems Problem Solution Manual,2nd,PHI India,59,,,A
+12-06-15,IT-58,978-81-7758-248-2,"Brain W. Kernighan
+Rob Pike",The Practice of Programming,"2010
+7th Edition",Pearson Education,267,,,A
+12-06-15,IT-59,81-7758-335-2,Donald E. Knuth,The Art of Computer Programming ,"2007
+3rd Edition
+Vol.- 2",Pearson Education,762,,,A
+12-06-15,IT-60,81-7808-113-X,Donald E. Knuth,The Art of Computer Programming ,"2004
+2nd Edition
+Vol.-3",Pearson Education,780,,,A
+12-06-15,IT-61,81-7758-754-4,Donald E. Knuth,The Art of Computer Programming ,"2007
+3rd Edition
+Vol-1",Pearson Education,670,,,A
+12-06-15,IT-62,81-7371-606-4,"Ellis Horowitz
+Sartaj Sahni
+Dinesh Mehta",Funsamentals of Data Structures in C++,"2007
+2nd Edition","Universities Press, India",694,,,A
+12-06-15,IT-63,0-07-099130-8,Seymour Lipschutz,Theory and Problems of Data Structures,"1986
+Internation Edition",McGraw Hill,344,,,A
+12-06-15,IT-64,978-81-317-1812-4,Rabert Lafore,Data Structures and Algorithms in Java,"2009
+2nd Edition",Pearson Education,776,,,A
+12-06-15,IT-65,0-07-048461-7,Gregory L. Heilman,"Data Structures, Algorithms and Object Oriented Programming",2002,Tata MC Graw Hill,446,,,A
+12-06-15,IT-66,978-81-203-0696-7,"Aaron M. Tenenbaum
+Yedidyah Langsam
+Mashe J. Augustein",Data Structures Using C,2007,PHI India,662,,,A
+12-06-15,IT-67,81-7371-522-X,Sartaj Sahni,"Data Structures , Algorithms and Applications in C++","2007
+2nd Edition","Universities Press, India",792,,,A
+12-06-15,IT-68,0-07-066910-4,Brijendra Kumar Joshi,Data Structures and Algorithms in C++,2010,Tata MC Graw Hill,360,350,,A
+12-06-15,IT-69,0-07-014596-2,Brijendra Kumar Joshi,Data Structures and Algorithms in C++,2010,Tata MC Graw Hill,312,,,A
+12-06-15,IT-70,0-07-070198-9,Seymour Lipschutz,Data Structures with C,2011,McGraw Hill,9.56 Sections,,,A
+12-06-15,IT-71,0-07-060168-2,Seymour Lipschutz,Data Structures,-,McGraw Hill,I-5 Sections,,,A
+12-06-15,IT-72,81-7371-606-4,"Ellis Horowitz
+Sartaj Sahni
+Dinesh Mehta",Funsamentals of Data Structures in C++,"2008
+2nd Edition","Universities Press, India",694,,,A
+12-06-15,IT-73,81-7371-606-4,"Ellis Horowitz
+Sartaj Sahni
+Dinesh Mehta",Funsamentals of Data Structures in C++,"2008
+2nd Edition","Universities Press, India",694,,2nd Copy of book,A
+12-06-15,IT-74,81-7371-522-X,Sartaj Sahni,"Data Structures , Algorithms and Applications in C++","2007
+2nd Edition","Universities Press, India",792,,2nd Copy of book,A
+12-06-15,IT-75,978-81-775-8423-3,"Robert Kruse
+C.L. Tondo
+Bruce Leung
+Shashi Mogalla",Data Structures and Program Design in C,"2009
+2nd Edition",Pearson Education,605,,,A
+12-06-15,IT-76,81-7371-605-6,"Ellis Horowitz
+Sartaj Sahni
+SusanAnderson Freed",Fundamentals of Data Structures in C,"2008
+2nd Editon","Universities Press, India",617,315,,A
+12-06-15,IT-77,81-7808-729-4,"Yedidah Langsam
+Moshe J. Augenstein
+Aaron M. Tenenbaum",Data Structures using C and C++,"2002
+2nd Edition",Pearson Education,669,,,A
+12-06-15,IT-78,0-13-514357-8,"Robert Kruse
+C.L. Tondo
+Bruce Leung",Data Structures and Algorithms in C,2nd Edition,PHI India,444,,Binded,A
+12-06-15,IT-79,81-224-1638-1,"K.K. Agrawal
+Yogesh Singh",Software Engineering,"2005
+2nd Edition",New Age International,480,215,,A
+12-06-15,IT-80,0-07-058339-0,"Harold Koontz
+Heinz Weihrich",Essential of Management,"2005
+6th Edition",Tata MC Graw Hill,437,,,A
+12-06-15,IT-81,0-07-044575-3,W. S. Jawadikar,Management Information Systems,"2006
+2nd Edition",Tata MC Graw Hill,726,,,A
+12-06-15,IT-82,978-81-203-4221-7,Sanjiva Shankar Dubey,It Strategy and Management,"2010
+2nd Edition",PHI India,261,250,,A
+12-06-15,IT-83,0-19-510539-7,"Ali Behrooz
+Fredrick J. Hudson",Software Engineering Fundamentals,2003,Oxford University Press,661,250/-,,A
+12-06-15,IT-84,0-19-569-484-8,Deepak Jain,Software Engineering Principles and Practices,2009 2nd Edition,Oxford University Press,508,385,,A
+12-06-15,IT-85,0-19-511153-2,"Ali Behrooz
+Fredrick J. Hudson",Software Engineering Fundamentals,1997,Oxford University Press,254,,,A
+12-06-15,IT-86,978-81-203-4531-7,Sanjiva Shankar Dubey,IT Services Business Management,2012,PHI India,201,250,,A
+12-06-15,IT-87,935-059-101-4,D.P. Goyal,IT Project Management,2012,MacMillan,272,325,,A
+12-06-15,IT-88,0-07-107274-8,"Bob Hughes
+Mike Cotterell
+Rajib Mall",Software Project Management,"2012
+5th Edition",Tata MC Graw Hill,397,,,A
+12-06-15,IT-89,9.78813E+12,"David A. Patterson
+John L. Hennessy",Computer Organization and Design,"4th Edition
+ARM Edition
+2010",Morgan Kaufmann,689,,,A
+12-06-15,IT-90,9.78813E+12,"John A. Hennessy
+David A. Patterson",Computer Architecture  A Quantative Approach,"4th Edition
+2007",Morgan Kaufmann,I-39,450,,A
+12-06-15,IT-91,,,,,,,,,A
+12-06-15,IT-92,0074604821,John H. Donovan,System Programming,1996,Tata MC Graw Hill,488,180,,A
+12-06-15,IT-93,9.78007E+12,D. M. Dhamdhere,System Programming and Operating Systems,"2009 
+2nd Edition Revised",Tata MC Graw Hill,658,,,A
+12-06-15,IT-94,0074635794,D. M. Dhamdhere,System Programming and Operating Systems,"2006 
+2nd Edition Revised",Tata MC Graw Hill,658,,,A
+12-06-15,IT-95,9.78935E+12,Iresh A. Dhotre,System Programming and Operating Systems,2012,Technical Publication,-,350,,A
+12-06-15,IT-96,0198070888,Srimanta Pal,System Programming,2011,Oxford University Press,728,395,,A
+12-06-15,IT-97,812033051X,Santanu Chattopadhyay,System Software,2007,PHI India,195,175,,A
+12-06-15,IT-98,9.78007E+12,D. M. Dhamdhere,System Programming,2011,Tata MC Graw Hill,538,,,A
+12-06-15,IT-99,817758555X,"Leland L. Beck
+D. Manjula","System Software
+AN Introduction to System Programming",3rd,Pearson Education,495,,,A
+12-06-15,IT-100,8131709418,David Galles,Modern Compiler Design,2007,Pearson Education,373,,,A
+15/06/15,IT-101,8131708136,"Charles N. Fischer
+Richard J. Leblenc,Jr.",Crafting A Compiler With C,2007,Pearson Education,812,,,A
+15/06/15,IT-102,812030778X,Allen I. Holub,Compiler Design in C,"1990 
+2nd Edition",PHI India,924,175,,A
+15/06/15,IT-103,9.78938E+12,"Keith D. Cooper
+Linda Torczon",Engineering A Compiler,"2011 
+2nd Edition",Morgan Kaufmann,800,,,A
+15/06/15,IT-104,8131708136,"Charles N. Fischer Richard J. Leblenc,Jr.",Crafting A Compiler With C,2007,Pearson Education,812,,,A
+15/06/15,IT-105,812032725X,Santanu Chattopadhyay,Compiler Design in C,2006,PHI India,225,175,,A
+15/06/15,IT-106,9.78033E+12,D. M. Dhamdhere,Compiler Construction,"2009
+2Nd Edition",Macmillan,478,295,,A
+15/06/15,IT-107,9.78813E+12,"Samir Roy
+Udit Chakraborty","Introduction to Soft Computing
+Neuro-Fuzzy and Genetic Algorithms",2013,Pearson Education,588,,,A
+15/06/15,IT-108,8177585908,"Alfred V. Aho
+Ravi Sethi
+Jeffrey D. Ullman","Compilers
+Principles, Techniques and Tools",2006,Pearson Education,780,-,,A
+15/06/15,IT-109,8181473663,"Randy Allen
+Ken Kennedy",Optimizing Compilers for Modern Architechtures,2004,Elsevier,790,,,A
+15/06/15,IT-110,9.78007E+12,Naresh Jotwani,Computer System Organization,2009,Tata MC Graw Hill,350,,,A
+15/06/15,IT-111,9.78007E+12,Nicholas P. Carter,"Computer Architechture
+And Organization","2011
+2Nd Edition",Tata MC Graw Hill,-,,,A
+15/06/15,IT-112,8131207269,"John L. Hennessy
+David A. Patterson","Computer Architechture
+A Quantitative Approach","4th 
+2004",Morgan Kaufmann,423,451,,A
+15/06/15,IT-113,8181472055,"John L. Hennessy
+David A. Patterson","Computer Architechture
+A Quantitative Approach","3rd 
+2003",Morgan Kaufmann,883,,,A
+15/06/15,IT-114,9.78813E+12,Rajkumar Buyya,High Performance Cluster Computing Architechtures and Systems,"2008
+Volume-1",Pearson Education,849,,,A
+15/06/15,IT-115,9.78813E+12,"M. Morris Mano
+Michael D. Ciletti",Digital Design,"4th
+2012",Pearson Education,610,,,A
+15/06/15,IT-116,9.78812E+12,M. R. Bhujade,Parallel Computing,"2009 
+2nd Edition",New Age International Publishers,278,,,A
+15/06/15,IT-117,817319100X,Michael J. Flynn,Computer Architechture Pipelined and Parallel Process Design,1995,Narosa Publishing House,788,,,A
+15/06/15,IT-118,0070991375,"Williams H. Murry III
+Chris H. Pappas","80386/80286
+Assembly Language Programming",1986,Tata MC Graw Hill,548,,,A
+15/06/15,IT-119,9.78938E+12,John L. Hennessy David A. Patterson,Computer Architechture A Quantitative Approach,5th,Morgan Kaufmann,429,,,A
+15/06/15,IT-120,9.76007E+12,B. Govinda Rajalu,IBM Pc and Clones Hardware Troubleshooting and Maintanance,"2nd
+2008",Tata MC Graw Hill,963,-,,A
+15/06/15,IT-121,0071143238,"V. Carl Hamacher
+Zuonko G. Vranesic
+Safwat G. Zaky",Computer Organization,4th Edition,Tata MC Graw Hill,963,,,A
+15/06/15,IT-122,9.78813E+12,M. Morris Mano,Computer System Architecture,"3rd Edition
+2011",Pearson Education,520,-,,A
+15/06/15,IT-123,9.78813E+12,Rob Williams,Computer System Architecture- Anetworking Approach,"2nd Edition
+2012",Pearson Education,730,,,A
+15/06/15,IT-124,9.78818E+12,Dilip Kumar Sultania,Computer System Organization [ Solved Q. Paper],2012 5th Edition,Tech Max,-,,,A
+15/06/15,IT-125,8120304179,M. Morris Mano,Digital Logic and Computer Design,2002 2nd Edition,PHI India,612,195,,A
+15/06/15,IT-126,8120308557,M. Morris Mano,Computer System Architecture,3rd Edition,PHI India,525,,,A
+15/06/15,IT-127,70663540,"Kai Hwang
+Paye A. Briggs",Computer Architecture and Parallel Processing,1976,Tata MC Graw Hill,845,,,A
+15/06/15,IT-128,007053070X,Kai Hwang,Advanced Computer Architecture,2004,Tata MC Graw Hill,770,,,A
+15/06/15,IT-129,9.78007E+12,Douglas V. Hall,Microprocessor and Interfacing,"2nd Edition
+Revised
+2010",Tata MC Graw Hill,-,,,A
+15/06/15,IT-130,9.78007E+12,"A. K. Ray
+K. M. Bharchand",Advanced Microprocessors and Peripherals,"2nd Editon
+2012",Tata MC Graw Hill,706,,,A
+15/06/15,IT-131,880222972,Allen L. Wyatt,Using Assembly Language,1986,MicroTech Publications,746,-,,A
+15/06/15,IT-132,9.78813E+12,Elaine Rich,Automata Computability and Complexity Theory and Applications,2012,Pearson Education,1099,,,A
+15/06/15,IT-133,9.78813E+12,Michael Sipser,Theory Of Computation,2007,Course Technology,346,,,A
+15/06/15,IT-134,8120311906,John Kelly,Essence of Computing : The Essence of Logic,2002 2nd Edition,PHI India,258,,,A
+15/06/15,IT-135,8120322843,Arindama Singh,Logics for Computer Science,2003,PHI India,369,,,A
+15/06/15,IT-136,8185095132,E. V. Krishnamurthy,Introductory Theory of Computer Science,1984,East-West Press,211,,,A
+15/06/15,IT-137,8178670364,"Raymon Greenlaw
+H. James Hoover",Fundamentals of The Theory of Computation Principles and Practice,1998,Morgan Kaufmann,336,,,A
+15/06/15,IT-138,007049939X,John Martin,Introduction to Languages and the Theory of Computation,"3rd Edition
+2005",Tata MC Graw Hill,543,,,A
+15/06/15,IT-139,8177588729,"John E. Hopcroff
+Rajeev Mofwani
+Jeffrey D. Ullman",Introduction To Automata Theory Languages and Computation,"2nd Edition
+2007",Pearson Education,534,,,A
+15/06/15,IT-140,019807106X,C. K. Nagpal,Formal Languages and Automata Theory,2011  2Nd Edition,Oxford Higher Education,348,,,A
+15/06/15,IT-141,9971515203,Daniel I.A. Cohen,Introduction To Computer Theory,"2nd Edition
+2004",Willey India,634,,,A
+15/06/15,IT-142,8185015961,"John E. Hopcroff
+Jeffrey D. Ullman",Introduction To Automata Theory Languages and Comoputation,"2nd Edition
+2004
+",Narosa Publishing House,418,,,A
+15/06/15,IT-143,9.78812E+12,"K.L.P. Mishra
+N. Chandrashekharan","Theory of Computer Science, Automata, Languages and Computation","3rd Edition
+2007",PHI India,422,,,A
+15/06/15,IT-144,9.78812E+12,"Harry R. Lewis
+Christofer H. Papadimitriou",Elements of the Theory of Computation,"2nd Edition
+2008",PHI India,361,,,A
+15/06/15,IT-145,9.78813E+12,Frank L. Severance,System Modeling and Simulation : An Introduction,2009,Willey India,506,,,A
+15/06/15,IT-146,9.78812E+12,Narsingh Deo,System Simulation with Digital Computer,2007,PHI India,200,,,A
+15/06/15,IT-147,9.78007E+12,Averill M. Law,Simulation Modeling and Analysis,"4th Edition
+2008",Tata MC Graw Hill,768,,,A
+15/06/15,IT-148,9.78818E+12,Leslie Lamport,"A Document Preparation System LATEX  User's Manual, Guide and Reference","2nd Edition
+2007",Pearson Education,272,,,A
+15/06/15,IT-149,,,Network Simulator (ns2)- Volume -1 Basic Tutorials,,,,,,A
+15/06/15,IT-150,,,Network Simulator Manual,2005,,401,,,A
+16/06/15,IT-151,,"Eitan Altman
+Tania Jimenez",NS Simulator for Beginners,2003,,144,,,A
+16/06/15,IT-152,,,Network Simulator(ns2) Volume II Wireless Ad-hoc Networks Simulation,-,-,-,-,,A
+16/06/15,IT-153,,"Prof. Shie-Yuan Wang
+Chih-Hua Huang
+Chih-Che Lin
+Chih Liang Chou and Kuo-Chiang Liao",NCTUns 4.0 Protocol Developr Manual,2007,,226,-,,A
+16/06/15,IT-154,,,OPNET Laboratory Manual : Volume 1,-,,188,-,,A
+16/06/15,IT-155,,,OPNET Laboratory Manual : Volume 2,2003,Morgan Kaufmann,195,-,,A
+16/06/15,IT-156,,Mary Athenborough,Mathematics For Electrical Engg. And Computing Vol.-I,-,Neulues,369,,,A
+16/06/15,IT-157,,Mary Athenborough,Mathematics For Electrical Engg. And Computing Part II,-,Neulues,-,,,A
+16/06/15,IT-158,,Mary Athenborough,Mathematics For Electrical Engg. And Computing Part III,-,Neulues,-,,,A
+16/06/15,IT-159,,Marc Gresiss,NS Tutorials,-,,-,,,A
+16/06/15,IT-160,,"Jac Chung
+Mark Claypool",NS By Examples,-,,-,,,A
+16/06/15,IT-161,8173716129,"Ellis Horowitz
+Sartaj Sahni
+Sangathevar Rajashekaran",Fundamentals of Computer Algorithms,"2nd Edition
+2007","Universities Press, India",773,360,,A
+16/06/15,IT-162,8173194580,Jeffrey J. Mc Connell,Analysis of Algorithms : An Active Learning Approach,2001,Narosa Publishing House,297,,,A
+16/06/15,IT-163,70636613,"Sanjay Dasgupta
+Chritofer Papadimitriou
+Umesh Vazirani",Algorithms,2008 2nd Edition,Tata MC Graw Hill,320,-,,A
+16/06/15,IT-164,8120326377,S. K. Basu,Design Methods and Analysis of Algorithms,2005,PHI India,306,250/-,,A
+16/06/15,IT-165,9.78126E+12,"R. C. T. Lee
+S. S. Tseng
+R. C. Chang
+Y. T. Tsai",Introduction to the Design and Analysis of Algorithms : A Strategic Approach,2013,Tata MC Graw Hill,723,-,,A
+16/06/15,IT-166,8173716110,IT-161,Computer Algorithms,"2nd Edition
+2008","Universities Press, India",774,395/-,,A
+16/06/15,IT-167,9.78126E+12,IT-165,Introduction to the Design and Analysis of Algorithms : A Strategic Approach,2012,Tata MC Graw Hill,723,-,,A
+16/06/15,IT-168,8175152575,"Ellis Horowitz
+Sartaj Sahni
+Sangathevar Rajashekaran",Fundamentals of Computer Algorithms,2003,Galgotia Publications,769,279,,A
+16/06/15,IT-169,813170310X,"Jon Kleinberg
+Eva Tardos",Algorithm Design,2006,Pearson Education,838,-,,A
+16/06/15,IT-170,8120321413,"Thoms H. Cormen
+Charles E. Leiserson
+Ronald Rivest
+Clifford Stein",Introduction to Algorithms,"2nd Edition
+2003",PHI India,1180,325/-,,A
+16/06/15,IT-171,9.78813E+12,"David Money Harris
+Sarah L Harris",Digital Design and Computer Architecture,2007,Morgan Kaufmann,569,-,,A
+16/06/15,IT-172,9.78812E+12,"Thomas H. Coremen
+Charles E. Leiser
+Ronald L. Rivest
+Cliford Stein",Introduction To Algorithms,"3rd Edition
+2010",PHI India,1292,425,,A
+16/06/15,IT-173,8173716129,"Ellis Horowitz
+Sartaj Sahni
+Sangathevar Rajashekaran",Fundamentals of Computer Algorithms,"2nd Edition
+2007","Universities Press, India",773,360,"161
+Another copy",A
+16/06/15,IT-174,,Allen B. Downey,Think Complexity,2011,Green Tea Press,134,-,,A
+16/06/15,IT-175,,"D. H. Greene
+D. E. Knuth",Mathematics for Analysis of Algorithms,"3rd Edition
+1990",,-,-,,A
+16/06/15,IT-176,,Herberts Wilt,Algorithms and Complexity,"2nd Edition
+1994",,135,-,,A
+16/06/15,IT-177,,"Rajeev motwani
+Prabhakar Raghavan",Randomized Algorithms,-,,476,-,,A
+16/06/15,IT-178,,"Franco P. Preparata
+Michael Lau Shams",Computational Geometry : An Introduction,-,Springer Verlag,365,-,,A
+16/06/15,IT-179,70662150,"Stefano CERI
+Gluseppe Pelagatti",Distributed Databases : Principles and Systems,1985,Tata MC Graw Hill,393,-,,A
+16/06/15,IT-180,198061862,"Sunita Mahajan
+Seema Shah",Distributed Computing,2010,Oxford Higher Education,598,365,,A
+16/06/15,IT-181,70587531,William Bachanan,Distributed Systems and Networks,2004 2nd Edition Vol.-3,Tata MC Graw Hill,674,-,,A
+16/06/15,IT-182,8129704056,"Cameron Hughes
+Tracey Hughes",Parallel and Distributed Programming Using C++,2004,Pearson Education,691,-,,A
+16/06/15,IT-183,8178084627,"George Coulouris
+Jean Dollimore
+Tim Kindberg",Distributet Systems : Concepts and Design,"3rd Edition
+2002",Pearson Education,772,-,,A
+16/06/15,IT-184,9812359893,"George Coulouris
+Jean Dollimore
+Tim Kindberg",Distributet Systems : Concepts and Design,"2nd Edition
+2002",Pearson Education,644,-,,A
+16/06/15,IT-185,136079385,"M. Tamerozsu
+Patrick Valduriez",Principles of Distributed Database Systems,"2nd Edition
+1999",PHI India,666,-,,A
+16/06/15,IT-186,8120313801,Pradeep K. Sinha,Distributed Operating Systems : Concepts and Design,2003,PHI India,743,-,,A
+16/06/15,IT-187,9.78813E+12,"Joshy Joseph
+Craig Fellentein",Grid Computing,2009,Pearson Education,400,-,,A
+16/06/15,IT-188,8178672405,Nancy A. Lynch,Distributed Algorithms,2003,Morgan Kaufmann,872,-,,A
+16/06/15,IT-189,8131706249,"George Coulouris
+Jean Dollimore
+Tim Kindberg",Distributed Systems : Concepts and Design,"4th Edition
+2007",Pearson Education,941,-,,A
+16/06/15,IT-190,8178087898,"Andrew S. Tenenbaum
+Maarten Van Steen",Distributed Systems : Principles and Paradigms,2002,Pearson Education,782,-,,A
+16/06/15,IT-191,8129704870,M. L. Liu,Distributed Computing : Principles and Applications,2005,Pearson Education,448,-,,A
+16/06/15,IT-192,9.78818E+12,"V. S. Bagad
+I. A. Dhotre",Computer Networking  Includes Solved and Questions,-,-,-,295/-,,A
+16/06/15,IT-193,8178081016,W. Richard Stevens,"TCP/IP Illustrated 
+Vol.-I The Protocols",2004 2nd Edition Vol.-3,Pearson Education,676,-,,A
+16/06/15,IT-194,,Kurose Ross,Computer Networking : A Top-Down Approach,5th Edition,Pearson Education,861,-,,A
+16/06/15,IT-195,,Kurose Ross,Computer Networking : A Top-Down Approach,5th Edition,Pearson Education,861,-,2nd Copy,A
+16/06/15,IT-196,8181475933,"Anurag Kumar
+D. Manjunath
+Jay Kuri",Communication Networking : An Analytical Approach,2006,Morgan Kaufmann,929,-,,A
+16/06/15,IT-197,8181476522,"Jean Walrand
+Pravin Varaiya",High Performance Communication Networks,"2nd Edition
+2005",Morgan Kaufmann,693,-,,A
+16/06/15,IT-198,876826219,Andrew S. Tenenbaum,Computer Networks,"2nd Edition
+1992",PHI India,658,-,,A
+16/06/15,IT-199,9.78813E+12,Williams Stallings,Computer Networking with Internet Protocols and Technology,2008,Pearson Education,660,-,,A
+16/06/15,IT-200,9.78813E+12,S. Keshav,An Engineering Approach to Computer Networking,2009,Pearson Education,642,-,,A
+17/06/15,IT-201,8131715299,"Mahbub Hasan
+Raj Jain",High Performance TCP/IP Networking,2007,Pearson Education,387,-,,A
+17/06/15,IT-202,8129701081,"Douglas E. Comer
+David L. Stevens",Internetworking with TCP/IP Vol.-I,"3rd Edition
+2004",Pearson Education,659,-,,A
+17/06/15,IT-203,8178084449,Douglas E. Comer,Internetworking with TCP/IP Vol.-I,"4th Edition
+2005",Pearson Education,750,-,,A
+17/06/15,IT-204,8120324102,NIIT,"Basics of Networks, Security Firewalls and VPNs",2003,PHI India,294,195/-,,A
+17/06/15,IT-205,8181472071,"Rajiv Ramaswami
+Kumar N. Sivarajan",Optical Networks : A Practical Perspective,"2nd Edition
+2004",Morgan Kaufmann,831,-,,A
+17/06/15,IT-206,9.78813E+12,"Mark Merkow
+Jim Breithaupt",Information Security : Principles and Practices,2011,Pearson Education,448,-,,A
+17/06/15,IT-207,9.78813E+12,Mayank Dave,Computer Networks,2012,CENGAGE Learning,400,-,,A
+17/06/15,IT-208,9.78938E+12,"Larry L. Peterson
+Brace S. Davie",Comoputer Networks : A Systems Approach,"5th Edition
+2012",Morgan Kaufmann,884,-,,A
+17/06/15,IT-209,188066775,Bhushan Trivede,Computer Networks,2011 2Nd Edition,Oxford Higher Education,682,450/-,,A
+17/06/15,IT-210,8181472063,"Larry L. Peterson
+Brace S. Davie",Computer Networks : A Systems Approach,"3rd Edition
+2003",Morgan Kaufmann,813,-,,A
+17/06/15,IT-211,9.78812E+12,"Natalia Olifer
+Victor Olifer","Computer Networks : Principles, Technologies and Protocols for Network Design",2009,Willey India,973,-,,A
+17/06/15,IT-212,9.78818E+12,"Douglas E. Comer
+M. S. Narayanan",Computer Networks and Internets with Internet Applications,"4th Edition
+2009",Pearson Education,589,-,,A
+17/06/15,IT-213,9.78813E+12,"Larry L. Peterson
+Brace S. Davie",Computer Networks : A Systems Approach,"4th Edition
+2007",Morgan Kaufmann,806,425,,A
+17/06/15,IT-214,9.78813E+12,Charles E. Perkins,Adhoc Networking,2008,Pearson Education,370,-,,A
+17/06/15,IT-215,9.78818E+12,"Vijay K. Garg
+Joseph E. Wilkes",Principles and Applications of GSM,2008,Pearson Education,481,-,,A
+17/06/15,IT-216,9.78818E+12,Nmani Subramaniam,Network Management : Principles and Practice,2008,Pearson Education,662,-,,A
+17/06/15,IT-217,8120307801,"Dimitri Bertsekas
+Robert Gallager",Data Networks,"2nd Edition
+1996",PHI India,555,-,,A
+17/06/15,IT-218,9.78813E+12,"Dimitri Bertsekas
+Robert Gallager",Networking Complete,"3rd Edition
+2010",Willey India,860,-,,A
+17/06/15,IT-219,818147368X,"Larry L. Peterson
+Brace S. Davie",Computer Networks : A Systems Approach,"3rd Edition
+2004",Morgan Kaufmann,176,-,,A
+17/06/15,IT-220,9.78815E+12,Williams Stallings,Networks Security : Essential Applications and Standards,"3rd Edition
+2009",Pearson Education,409,-,,A
+17/06/15,IT-221,8120322134,"Charlie Kaufmann
+Radia Pertman
+Mike Speciner",Network Security : Private Communication in a Public World,"2nd Edition
+2006",PHI India,713,325/-,,A
+17/06/15,IT-222,9.78813E+12,"John K. Ousterhout
+Ken Jones",TCL and the TK Foolkit,"2nd Edition
+2011",Pearson Education,773,925/-,,A
+17/06/15,IT-223,8178670356,Buck Graham,"TCP/IP Addressing, Design and Optimizing 
+IP Addressing Scheme","
+2nd Edition
+2001",Morgan Kaufmann,455,-,,A
+17/06/15,IT-224,9.78813E+12,Williams Stallings,Computer Networking with Internet Protocols and Technology,2007,Pearson Education,660,-,,A
+17/06/15,IT-225,9.78126E+12,"Behrouz A. Forouzan
+Firouz Masharraf ",Computer Networks : A Top-Down Approach,2012,Tata MC Graw Hill,921,-,,A
+17/06/15,IT-226,9.78812E+12,"S. Rajasekaran
+G. A. Vijaylaxmi Pai","Neural Networks, Fuzzy Logic and Genetic Algorithms",2012,PHI India,439,325/-,,A
+17/06/15,IT-227,9.78007E+11,Behrouz A. Forouzan,TCP/IP Protocol Suit,"4th Edition
+2010",PHI India,979,-,,A
+17/06/15,IT-228,9.78812E+12,Sudakshina Kundu,Fundamentals of Computer Networks,"2nd Edition
+2008",PHI India,287,225,,A
+17/06/15,IT-229,9.78813E+12,"Andrew S. Tenenbaum
+David J. Wetherall",Computer Networks,"5th Edition
+2012",Pearson Education,951,-,,A
+17/06/15,IT-230,8122413412,"C. K. Sarkar
+D. C. Sarkar",Optoelectronics and Fiber Optics Communication,2001,New Age International Publishers,374,-,,A
+17/06/15,IT-231,9.78812E+12,Dimitri Bertsekas Robert Gallager,Data Networks,"2nd Edition
+2009",PHI India,556,325/-,,A
+17/06/15,IT-232,9.78813E+12,"James F. Kurose
+Keith W. Ross",Computer Networking : A Top-Down Approach,"5th Edition
+2012",Pearson Education,888,-,,A
+17/06/15,IT-233,8177588788,"James F. Kurose
+Keith W. Ross",Computer Networking : A Top-Down Approach Featuring The Internet,3rd Edition,Pearson Education,813,-,,A
+17/06/15,IT-234,70486662,Behrouz A. Forouzan,Local Area Networks,2007,Tata MC Graw Hill,618,-,,A
+17/06/15,IT-235,8120329988,Douglas E. Comer,"Internetworking with TCP/IP : Principles, Protocols and Architecture","5th Edition
+Vol.-I
+2006",PHI India,650,325/-,,A
+17/06/15,IT-236,9.78812E+12,"W. Richard Stevens
+Bill Fenne
+Andrew M. Rudoff",UNIX Network Programming : The Socket Networking API,"3rd Edition
+Vol.-I
+2007",PHI India,991,375/-,,A
+17/06/15,IT-237,8120307496,W. Richard Stevens,UNIX Network Programming,2000,PHI India,772,-,,A
+17/06/15,IT-238,8178088282,"Kenneth C. Mansfield Jr.
+James L. Antonakas",An Introduction to Computer Networking,2002,Pearson Education,596,-,,A
+17/06/15,IT-239,8129702924,William Stallings,Computer Networking with Internet Protocols and Technology,2004,Pearson Education,642,295/-,,A
+17/06/15,IT-240,812032269X,Joseph Davies,Understanding IPV6,2003,PHI India,498,395/-,,A
+17/06/15,IT-241,9.78935E+12,"V. S. Bagad
+I. A. Dhotre",Computer Networks,2012,Technical Publication,-,290,,A
+17/06/15,IT-242,8177586556,"W. Richard Stevens
+G. Gabrani","TCP/IP Illustrated
+Vol.-I The Protocols",2008,Pearson Education,512,-,,A
+17/06/15,IT-243,8178670275,"Michael J. Donahoo
+Kenneth L. Calvert","The Pocket Guide to TCP/IP Sockets 
+C Version",2001,Morgan Kaufmann,130,-,,A
+17/06/15,IT-244,9.78812E+12,"Natalia Olifer
+Victor Olifer","Computer Networks : Principles, Technologies and Protocols for Network Design",2009,Willey India,973,-,,A
+17/06/15,IT-245,8120321758,Andrew S. Tenenbaum,Computer Networks,"4th Edition
+2003",PHI India,891,250/-,,A
+17/06/15,IT-246,9.78007E+12,Richard Deal,"CCNA
+CISCO Certified Network Associate Study Guide ",2008,Tata MC Graw Hill,983,-,,A
+17/06/15,IT-247,9.78812E+12,NIIT,Basics of Networking,2008,PHI India,290,-,,A
+17/06/15,IT-248,8177584758,"Fred Halsall
+Lingana Gouda Kulkarni",Computer Networking and The Internet,"5th Edition
+2007",Pearson Education,678,-,,A
+17/06/15,IT-249,8120310411,Uyless Black,"Computer Networks : Protocols, Stsndards and Interfaces","2nd Edition
+2003",PHI India,436,225,,A
+17/06/15,IT-250,812326539,"Pallapa Venkataram
+Sunil Kumar S. Manui",Communication Nprotocols Engineering,2004,PHI India,284,250/-,,A
+18/06/15,IT-251,8178670275,"Michael J. Donahoo
+Kenneth Calvert",The Pocket Guide to TCP/IP Sockets C Version,2001,Morgan Kaufmann,130,-,,A
+18/06/15,IT-252,8120325532,"Douglas E. Comer
+David L. Stevens","Internetworking with TCP/IP 
+Vol.-III","2nd Edition
+2004",PHI India,519,350/-,,A
+18/06/15,IT-253,817808340X,W. Richard Stevens,"TCP/IP Illustrated 
+Vol.-III",2004,Pearson Education,328,-,,A
+18/06/15,IT-254,,,Computer Networks Notes,-,,-,-,,A
+18/06/15,IT-255,,,Computer Networks Fall 2002,-,,214,-,,A
+18/06/15,IT-256,,,TCP/IP Tutorial and Technical Overview IBM,-,,715,-,,A
+18/06/15,IT-257,,,"TCP/IP Tutorial and Technical Overview
+Vol.-II IBM Red Book",1998,,719,-,,A
+18/06/15,IT-258,,,Computer Networks : Solution Manual,4th Edition,,-,-,,A
+18/06/15,IT-259,9.78126E+12,Ranjan Parekh,Principles of Multimedia,"2nd Edition
+2013",Tata MC Graw Hill,825,-,,A
+18/06/15,IT-260,9.78818E+12,"A. P. Godse
+D. A. Godse",Computer Graphics and Multimedia,"1st Eition
+2010",Technical Publication,-,350/-,,A
+18/06/15,IT-261,9.78126E+12,Ranjan Parekh,Principles of Multimedia,"2nd Edition
+2013",Tata MC Graw Hill,825,-,2nd Copy,A
+18/06/15,IT-262,9.78813E+12,"Michael Duck
+Richard Read",Data Communications and Computer Networks,"2nd Edition
+2009",Pearson Education,415,-,,A
+18/06/15,IT-263,9.78007E+12,"R. P. Singh
+S. D. Sapre",Communication Systems Analog and Digital,"2nd Edition
+2008",Tata MC Graw Hill,584,-,,A
+18/06/15,IT-264,8131717143,"Ian A. Glover
+Peter M. Grant",Digital Communication,"2nd Edition
+2008",Pearson Education,1000,-,,A
+18/06/15,IT-265,9.78813E+12,Blake,Electronic Communication Systems,2nd Edition,Thomson Delmar,985,-,,A
+18/06/15,IT-266,8173191794,Larry Haghes,Introduction to Data Communications : A Practical Approach,1997,Narosa Publishing House,502,-,,A
+18/06/15,IT-267,9.78126E+12,"Rajkumar Buyya Christian Vecchiola
+S. Thamarai Selvi",Mastering Cloud Computing,2013,Tata MC Graw Hill,-,-,,A
+18/06/15,IT-268,8120326482,Brijendra Singh,Data Communication and Computer Networking,2004,PHI India,303,225,,A
+18/06/15,IT-269,70634149,Behrouz A. Forouzan,Data Communications and Networking,"4th Edition
+2006",Tata MC Graw Hill,1134,-,,A
+18/06/15,IT-270,70499357,Behrouz A. Forouzan,Data Communications and Networking,"2nd Edition
+2005",Tata MC Graw Hill,944,-,,A
+18/06/15,IT-271,9.78935E+12,"V. S. Bagad
+I. A. Dhotre",Data Communication and Computer Networking,2012,Technical Publication,-,125,,A
+18/06/15,IT-272,9.78813E+12,William J. Begda,Data Communications from Basics to Broadband,"4th Edition
+2012",Pearson Education,379,-,,A
+18/06/15,IT-273,9.78007E+12,Achyut S. Godbole Atul Kahate,Data Communications and Networks,2009,Tata MC Graw Hill,503,-,,A
+18/06/15,IT-274,8126507659,"James Irvine
+David Harle",Data Communications and Networks,2006,Willey India,268,-,,A
+18/06/15,IT-275,8131709302,Wayne Tomasi,Introduction to Data Communications and Networking,2007,Pearson Education,985,-,,A
+18/06/15,IT-276,9.78126E+12,Forouzan,Data Communications and Networking SE,2013,Tata MC Graw Hill,1226,-,,A
+18/06/15,IT-277,9.78813E+12,Williams Stallings,Data and Computer Communications,"8th Edition
+2009",Pearson Education,834,-,,A
+18/06/15,IT-278,9.78007E+12,Martin C. Brown,The Complete Reference Perl,"2nd Edition
+2007",Tata MC Graw Hill,1207,-,,A
+18/06/15,IT-279,812032093X,Microsoft Net,Developing Web Applications with Microsoft,"2nd Edition
+2002",PHI India,756,695,,A
+18/06/15,IT-280,198066228,Uttam K. Roy,Web Technologies,2012,Oxford Higher Education,758,410,,A
+18/06/15,IT-281,9.78126E+12,"Achyut Godbole
+Atul Kahate",Web Technologies,"3rd Eition
+2013",Tata MC Graw Hill,593,-,,A
+18/06/15,IT-282,9.78007E+12,Timothy A. budd,Exploring Python,2011,Tata MC Graw Hill,278,-,,A
+18/06/15,IT-283,9.78813E+12,Toby Donaldson,Visual Quickstart Guide Python,"2nd Edition
+2011",Pearson Education,185,-,,A
+18/06/15,IT-284,9.78813E+12,Jeffrey C. Jackson,Web Technologies : A Computer Science Perspective,2009,Pearson Education,588,-,,A
+18/06/15,IT-285,9.78812E+12,"Paul Deitel
+Harvey Deitel",C++ How to Program,"8th Edition
+2012",PHI India,1069,695,,A
+18/06/15,IT-286,9.78813E+12,Eilie Quigley,Perl by Example,"4th Edition
+2009",Pearson Education,971,-,,A
+18/06/15,IT-287,8120305965,"Brian W. Kernighan
+Demmis M. Ritchie",The C Programming Language,"2nd Edition
+2004",PHI India,272,95,,A
+18/06/15,IT-288,9.78813E+12,Bruce Eckel,"Thinking in C++ : Introduction to Standard C++ 
+Vol. - I","2nd Edition
+2011",Pearson Education,814,-,,A
+18/06/15,IT-289,9.78007E+12,E. Balagurusamy,Object oriented Programming with C++,"5th Edition
+2011",Tata MC Graw Hill,563,-,,A
+18/06/15,IT-290,8185623228,Robert Lafore,Object Oriented Programming in Turbo C++,2003,Galgotia Publications,739,279,,A
+18/06/15,IT-291,9.78812E+12,Arpita Gopal,Magnifying C,2009,PHI India,476,325/-,,A
+18/06/15,IT-292,8178085852,Ashok N. Ramthane,Programming with ANSI and Turbo C,2004,Pearson Education,594,-,,A
+18/06/15,IT-293,9812358838,Donal E. Knuth,The Art of Computer Programming ,"Vol.-II
+2000",Pearson Education,762,-,,A
+18/06/15,IT-294,9.78813E+12,Donal E. Knuth,The Art of Computer Programming ,Vol.- IVA,Pearson Education,883,-,,A
+18/06/15,IT-295,1282318635,Microsoft,Microsoft Visual Basic 6.0 in Action,1998,MicroTech Publications,218,-,,A
+18/06/15,IT-296,9.78813E+12,"Stephen C. Perry
+Atul Kahate
+Stephen Walther
+Joseph Mayo",Essential of .Net and Related Technologies,2009,Pearson Education,382,-,,A
+18/06/15,IT-297,9.78007E+12,E. Balagurusamy,Pragramming in ANSI C 4E,2007,Tata MC Graw Hill,549,-,,A
+18/06/15,IT-298,9.78813E+12,"Stanley B. Lippman
+Jasee Lajoie
+Barbara E. Moo",C++ Primer,"4th Edition
+2010",Pearson Education,885,-,,A
+18/06/15,IT-299,8120316681,Tom Swan,GNU C++ for Linux,2000,PHI India,831,425,,A
+18/06/15,IT-300,9.78007E+12,"James P. Cohoon
+Jack W. Davidson",Programming in C==,"3rd Edition
+2008",Tata MC Graw Hill,948,-,,A
+19/06/15,IT-301,9.78007E+12,"K. R. Venugopal
+Rajkumar
+T. Ravishankar",Mastering C++,2007,Tata MC Graw Hill,804,-,,A
+19/06/15,IT-302,9.78813E+12,Ashok N. Kamthane,Object Oriented Programming with ANSI and Turbo C++,2009,Pearson Education,712,-,,A
+19/06/15,IT-303,8129704722,"M. P. Bhave
+S. A. Patekar",Object oriented Programming with C++,2005,Pearson Education,483,-,,A
+19/06/15,IT-304,9.78813E+12,Scott Meyers,Effective C++,"3rd Edition
+2009",Pearson Education,297,-,,A
+19/06/15,IT-305,812032613X,Pooranchandra Saarang,Object Oriented Programming with C++,2004,PHI India,341,225,,A
+19/06/15,IT-306,,Indira Natarajan,Comprehensive C++,2002,Galgotia Publications,312,110,,A
+19/06/15,IT-307,9.78813E+12,Robert Lafore,Object Oriented Programming in C++,"4th Edition
+2011",Pearson Education,1012,-,,A
+19/06/15,IT-308,9.78007E+12,E. Balagurusami,Object oriented Programming with C++,"5th Edition
+2011",Tata MC Graw Hill,563,-,,A
+19/06/15,IT-309,9.78813E+12,"Behrouz A. Forouzan
+Richard F. Gillberg",Computer Science : A Structured Approach using  c++,2004,CENGAGE Learning,1022,-,,A
+19/06/15,IT-310,8173194149,"Nell Dale
+Chip Weems
+Mark Headington",Introduction to Java and Software Design,2001,Narosa Publishing House,771,325/-,,A
+19/06/15,IT-311,9.78126E+12,"Herbert Schildt
+Dale Skrien",Java Fundamentals : A Comprehensive Introduction,2013,Tata MC Graw Hill,1034,-,,A
+19/06/15,IT-312,019806368X,"Sachin malhotra
+Saurabh Choudhary",Programming in Java,2011,Oxford Higher Education,576,350/-,,A
+19/06/15,IT-313,9.78813E+12,"M. P. Bhave
+S. A. Patekar",Programming with Java,2012,Pearson Education,708,-,,A
+19/06/15,IT-314,9.78813E+12,"Michael R. Blaha
+James R. Rumbaug","Object Oriented Modeling and Design with UML, UML2","2nd Edition
+2011",Pearson Education,477,-,,A
+19/06/15,IT-315,9.78812E+12,M. T. Samashekaran,Problem Solving with C,2009,PHI India,475,275,,A
+19/06/15,IT-316,70411832,Herbert Schildt,The Complete Reference C,"4ht Edition
+2000",Tata MC Graw Hill,805,-,,A
+19/06/15,IT-317,9.78007E+12,Herbert Schildt,The Complete Reference C++,"4th Edition
+2003",Tata MC Graw Hill,1023,-,,A
+19/06/15,IT-318,9.78813E+12,Stephen Prata,C++ Primer Plus,6th Edition,Pearson Education,1420,-,,A
+19/06/15,IT-319,8131705218,Bjarne Stroustrup,The C++ Programming Languages,"3rd Edition
+2007",Pearson Education,1019,-,,A
+19/06/15,IT-320,9.78812E+12,"Paul Deitel
+Harvey Deitel",C++ How to Program,"7th Editioni
+2010",PHI India,1068,695,,A
+19/06/15,IT-321,9.78813E+12,"Cay Horstmann
+Timothy Budd",Big C++,2007,Willey India,1186,499,,A
+19/06/15,IT-322,8181472012,UPTEC,Programming and Problem Solving Through C,2004,Elsevier,340,-,,A
+19/06/15,IT-323,8128001108,P.B. Kofur,Computer Concepts and C Programming,2007,Wipro Edition,501,-,,A
+19/06/15,IT-324,9.78812E+12,V. Rajaraman,Computer Programming in C,2009,PHI India,363,195/-,,A
+19/06/15,IT-325,9.78813E+12,"BruceEckel
+Chuck Allison","Thinking in C++ : Vol. - II
+Practical and Programming",2011,Pearson Education,824,-,,A
+19/06/15,IT-326,9.78818E+12,Deepak T. Mane,Principles of Programming Languages,2011,Tech Max,-,195/-,,A
+19/06/15,IT-327,8120305795,"Clovis L. Tondo
+Scotte E. Gimpel",The C Answer Book,"2nd Edition
+2004",PHI India,208,89,,A
+19/06/15,IT-328,8178087383,"James Rumbaug
+Micheal Blaha
+Williams Premerlani",Object Oriented Modeling and Design,2003,Pearson Education,500,-,,A
+19/06/15,IT-329,9.78813E+12,"Grady Booch
+Robert A. Maksimchuk",Object Oriented Analysis and Design with Applications,3rd Edition,Pearson Education,691,-,,A
+19/06/15,IT-330,,Microsoft,Visual Studio .NET Academic Students Tool Guide,2001,Microsoft,79,-,,A
+19/06/15,IT-331,,Microsoft,Microsoft Windows 2000 Server,1999,Microsoft,137,-,,A
+19/06/15,IT-332,,"Brian Gough
+M. Stallman",An Introduction to GCC,-,-,116,-,,A
+19/06/15,IT-333,,,C/C++ Development User Guide,-,-,-,-,Binded,A
+19/06/15,IT-334,,Allen Downey,Think Python,2008,Green Tea Press,210,-,Binded,A
+19/06/15,IT-335,,,A Byte of Python,-,-,118,-,Binded,A
+19/06/15,IT-336,,Dave Marshall,Programming in C UNIX System Calls and Subroutine Using C,1999,-,-,-,Binded,A
+19/06/15,IT-337,,William Von Hagen,The Definite Guide to GCC,2nd,-,550,-,Binded,A
+19/06/15,IT-338,,Peter Miller,C++ Language Tutorials,1996,-,-,-,Binded,A
+19/06/15,IT-339,,"Richard M. Stallman
+Ronald McGrath
+Paul Smith",GNU Make,2002,-,-,-,Binded,A
+19/06/15,IT-340,,Bruce Eckel,Thinking in C++,2nd,PHI India,814,-,Binded,A
+19/06/15,IT-341,9.78007E+12,T. L. Singal,Wireless Communications,2012,Tata MC Graw Hill,669,-,,A
+19/06/15,IT-342,9.78812E+12,P. Muthuchiddambara Nathan,Wireless Communications,2008,PHI India,219,195/-,,A
+19/06/15,IT-343,9.78813E+12,"Bruce A. Balck
+Fredrick C. Berry",Introduction to Wireless Systems,2009,Pearson Education,507,-,,A
+19/06/15,IT-344,8177583557,Williams Stallings,Wireless Communications and Networks,2006,Pearson Education,598,-,,A
+19/06/15,IT-345,9.78007E+12,"AlberoleonGarcia
+Indra Widjaja",Communication Networks : Fundamental Concepts and Key Architectures,"2nd Edition
+2004",Tata MC Graw Hill,900,-,,A
+19/06/15,IT-346,8120314727,Dr. Kamilo Feher,Wireless Digital Communications,2003,PHI India,524,275,,A
+19/06/15,IT-347,9.78813E+12,Yl-Bang LinImrich Chlamtac,wireless and Mobile Networks Architectures,2008,Willey India,532,-,,A
+19/06/15,IT-348,9.78126E+12,Ron Price,Fundamentals of Wireless Networking,2012,Tata MC Graw Hill,641,-,,A
+19/06/15,IT-349,9.78813E+12,Vijay K. Garg,Wireless Communications and Networking,2009,Morgan Kaufmann,821,-,,A
+19/06/15,IT-350,9.78812E+12,"Kaven Pahlavan
+Prashant Krishnamurthy",Principles of Wireless Networks,2012,PHI India,584,395/-,,A
+22/06/15,IT-351,8131501353,Dhamaprakash Agrawal,Introduction to Wireless and Mobile,2007,Thomson,498,-,,A
+22/06/15,IT-352,9.78813E+12,Roy Blake,Wireless Communications Technology,2007,Thomson,604,-,,A
+22/06/15,IT-353,8177224689,"Uwe Hansman
+Lather Merk
+Thomas Staber",Principles of Mobile Computing,"2nd Edition
+2004",Springer International,448,349,,A
+22/06/15,IT-354,9.78007E+12,"Sumit Kasera
+Nishit Narang
+A. P. Priyanka",2.5 G Mobile Networks : GPRS and EDGE,2008,Tata MC Graw Hill,252,-,,A
+22/06/15,IT-355,70621063,"Nishit Narang
+Sumit Kasera",2G Mobile Networks GSM and HSCSD,2007,Tata MC Graw Hill,351,-,,A
+22/06/15,IT-356,8178086468,"Kaveh Pehlavan
+Prashant Krishnamurthy",Principles of Wireless Networks,2003,Pearson Education,584,195/-,,A
+22/06/15,IT-357,70588074,"Asoke K. Talukder
+Roopa R. Yavagal",Mobile Computing,2005,Tata MC Graw Hill,668,-,,A
+22/06/15,IT-358,195686772,Rajkamal,Mabile Computing,2007,Oxford Higher Education,582,325/-,,A
+22/06/15,IT-359,9.78813E+12,"Mark Grayson
+Scott Wainner",IP Design for Mobile Networks,2011,Cisco Press,531,-,,A
+22/06/15,IT-360,70603642,"Frank Adelstein
+Sandeep K.S. Gupta
+Loren Schwiebert",Fundamentals of Mobile and Pervasive Computing,2005,Tata MC Graw Hill,402,-,,A
+22/06/15,IT-361,9.78813E+12,Dharma Prakash Agrawal,Introduction of Wireless and Mobile Systems,"3rd Edition
+2012",CENGAGE Learning,572,-,,A
+22/06/15,IT-362,8129707594,"Jochen Burkhar
+Dr. Horst Henn
+Stefan Hepper",Pervasive Computing,2005,Pearson Education,410,-,,A
+22/06/15,IT-363,9.78813E+11,James D. Solomon,Mobile IP : The Internet Unplugged,2008,Pearson Education,350,-,,A
+22/06/15,IT-364,9.78818E+12,"Uwe Hansmann
+Lothar Merk
+Thomas Stober",Principles of Mobile Computing,2nd Edition,Springer International,448,349,,A
+22/06/15,IT-365,9.78007E+12,"Himanshu Dwivedi
+Chris Clark
+David Qhiel",Mobile Application Security,2012,Tata MC Graw Hill,408,-,,A
+22/06/15,IT-366,9.78813E+12,"C. Siva Rammurthy
+B. S. Manoj",ADHOC Wireless Networks,2011,Pearson Education,816,-,,A
+22/06/15,IT-367,9.78813E+12,Kumkum Garg,Mobile Comoputing Theory and Practice,2010,Pearson Education,218,-,,A
+22/06/15,IT-368,,Sung Ju Lee,Routing and Multicasting Strategies in Wireless Mobile ADHOC Networks,2000,,260,-,"Photocopy
+Binding",A
+22/06/15,IT-369,,Charles E. Perkins,ADHOC on Demand Distance Vector Routing,,,,-,"Photocopy
+Binding",A
+22/06/15,IT-370,7123151X,"Ramakrishanan
+Gen Ke",Database Management Systems,"3rd Edition
+2003",Tata MC Graw Hill,1065,-,,A
+22/06/15,IT-371,8178671190,"Petrick O'Neil
+Elizabeth O'Neil","Database Principles, Programming and Performance","2nd Edition
+2002",Morgan Kaufmann,870,-,,A
+22/06/15,IT-372,9.78007E+12,"Abraham Silberschatz
+Henry F. korth",Database System Concepts,"6th Edition
+2011",Tata MC Graw Hill,1349,-,,A
+22/06/15,IT-373,8181470494,"Jiawei Han
+Micheline Kamber",Data Mining Concepts and Technologies,2004,Morgan Kaufmann,550,-,,A
+22/06/15,IT-374,8178083671,"Efraim Turban
+Jay E. Aronson",Decision Support Systems and Intelligent,"6th Edition
+2003",Pearson Education,867,-,,A
+22/06/15,IT-375,8131709485,Jefferey A. hoffer,Modern Database Management,"8th Edition
+2008",Pearson Education,624,-,,A
+22/06/15,IT-376,,Allen Simpson,Understanding dbase III,1986,B.P.B. Publications,300,48,,A
+22/06/15,IT-377,8129702282,"Remez Elmasari
+Shamkant B. Navathe",Fundamentals of Database Systems,"4th Edition
+2004",Pearson Education,1030,-,,A
+22/06/15,IT-378,,RGTU,Database Management System,2011,TBP,,170,,A
+22/06/15,IT-379,9.78126E+12,"C.L. Liu
+D. P. Mahapatra",Elements of Discrete Mathematics,"4th Edition
+2013",Tata MC Graw Hill,627,-,,A
+22/06/15,IT-380,9.7812E+11,Narsingh Deo,Graph Theory,2007,PHI India,478,225,,A
+22/06/15,IT-381,9.78007E+12,Kamala Krithivasan,Discrete Mathematics and Its Applications,"7th Edition
+2011",Tata MC Graw Hill,843,-,,A
+22/06/15,IT-382,,R. D. Sharma,Mathematics,2005,Dhanpat Rai Publications,,195/-,,A
+22/06/15,IT-383,8174501258,NCERT,Mathematics,2005,NCERT,1002,90,,A
+22/06/15,IT-384,8174501800,"Anup Rajput
+P.K. Jain
+Hukum Singh",Mathematics,2003,NCERT,532,95,,A
+22/06/15,IT-385,9812531114,James L. Johnson,Probabilility and Stastics for Computer Science,2004,Willey India,744,-,,A
+22/06/15,IT-386,9814126047,Kishor S. Trivedi,"Probability and Stastics with Reliability, Queing and Computer Science Applications","2nd Edition
+2004",Willey India,830,-,,A
+22/06/15,IT-387,,R. D. Sharma,Mathematics,2005,Dhanpat Rai Publications,,155,,A
+22/06/15,IT-388,,R. D. Sharma,Mathematics,2004,Dhanpat Rai Publications,,145,,A
+22/06/15,IT-389,9.78813E+12,Babu Ram,Engineering Mathematics,2010,Pearson Education,,-,,A
+22/06/15,IT-390,8131711242,Glyn James,Advanced Modern Engineering Mathematics,"3rd Edition
+2007",Pearson Education,,972,,A
+22/06/15,IT-391,8177583611,Sheldon Ross,A First Course in Probability,"6th Edition
+2006",Pearson Education,528,-,,A
+22/06/15,IT-392,8120801644,Jagadguru Swami Shri Bharati Krsna Tirathaji Maharaja,Vedic Mathematics,2002,Motilal Banarsidad publications,355,125,,A
+22/06/15,IT-393,876926111,S. S. Sastry,Introductory Meethods of Numerical Analysis ,"2nd Edition
+1991",PHI India,296,45,,A
+22/06/15,IT-394,9.78007E+12,Peyton Z. Peebles Jr.,Probability Random Variables and Random Signal Principles,2002,Tata MC Graw Hill,462,-,,A
+22/06/15,IT-395,8120350086,Kishor S. Trivedi,IT-386,2004,PHI India,624,150,,A
+22/06/15,IT-396,9.78813E+13,William Feller,An Introduction to Probability Theory and Its Applications,"3rd Edition
+2009",Willey India,509,-,,A
+22/06/15,IT-397,818479718,Arnold O. Allen,IT-386,"2nd Edition
+2005",Academic Press,740,-,,A
+22/06/15,IT-398,9.78007E+12,"C.L. Liu
+D. P. Mahapatra",Elements of Discrete Mathematics : A Computer Oriented Approach,"3rd Edition
+2008",Tata MC Graw Hill,547,-,,A
+22/06/15,IT-399,9.78007E+12,Kenneth Rosen,Discrete Mathematics and Its Appplications,"6th Edition
+2007",Tata MC Graw Hill,787,-,,A
+22/06/15,IT-400,8174091157,Dr. B. S. Grewal,Higher Engineering Mathematics,2001,Hindustan Offset Press,1227,240,,A
+23/06/15,IT-401,9.78813E+12,"Geir Agnarsson
+Raymond Greenlow",Graph Theory,2012,Pearson Education,464,-,,A
+23/06/15,IT-402,,Barnard V. Zandy,Cliffs Quick Review Calculus,,Hungry Minds,124,-,,A
+23/06/15,IT-403,,Allen b. Downey,"Think Stats, Probability and Statistics for Programmers",2011,Green Tea Press,130,-,,A
+23/06/15,IT-404,,"L. Lovasz
+K. Vesztergombi",Discrete Mathematics,1979,,139,-,,A
+23/06/15,IT-405,,Kishor S. Trivedi,Solution Manual For Probability and Statistics with Reliability,"2nd Edition
+Vol.-2",,,-,,A
+23/06/15,IT-406,,Kishor S. Trivedi,Solution Manual For Probability and Statistics with Reliability,"2nd Edition
+Vol.-1",,,-,,A
+23/06/15,IT-407,8120322010,R. M. Somasundaram,Discrete Mathematical Structures,2006,PHI India,271,175/-,,A
+23/06/15,IT-408,230322301,J. K. Sharma,Discrete Mathematics,"3rd Edition
+2013",Trinity Press,582,345,,A
+23/06/15,IT-409,9.78812E+12,Kolman Busby Ross,Discrete Mathematical Structures,"6th Edition
+2009",PHI India,522,375/-,,A
+23/06/15,IT-410,9.78812E+12,"M. Chandrashekaran
+M. Umaparvathi",Discrete Mathematics,2010,PHI India,804,425,,A
+23/06/15,IT-411,81431201511,Richard Bronson,Matrix Methods : An Introduction,"2nd Edition
+1991",Academic Press,503,395/-,,A
+23/06/15,IT-412,70486581,"Athanasios Papoulis
+S. Unnikrishna Pillai",Probability Random Variables and Stochastic Processes,"4th Edition
+2006",Tata MC Graw Hill,852,-,,A
+23/06/15,IT-413,818478878,Thomas Koshy,Discrete Mathematics with Applications,2005,Academic Press,1045,-,,A
+23/06/15,IT-414,7043476X,C. L. Liu,Elements of Discrete Mathematics,"2nd Edition
+2006",Tata MC Graw Hill,433,-,,A
+23/06/15,IT-415,8181477324,Thomas Koshy,Elementry Number Theory with Applications,2002,Academic Press,716,-,,A
+23/06/15,IT-416,8131708411,"Ronald L. Graham
+Donald E. Knuth",Concrete Mathematics,"2nd Edition
+2007",Pearson Education,643,-,,A
+23/06/15,IT-417,70474281,Peyton Z. Peebles Jr.,"Probability, Random Variables and Random Signal Principles","4th Edition
+2006",Tata MC Graw Hill,462,-,,A
+23/06/15,IT-418,9.78813E+12,Richard A. Brualdi,Introductory Combinatorics,"4th Edition
+2008",Pearson Education,630,-,,A
+23/06/15,IT-419,9.78818E+12,Thomas Koshy,Discrete Mathematics with Applications,2005,Academic Press,1045,495,,A
+23/06/15,IT-420,9.78813E+12,"Maurice D. Wier
+Joel Hass",Thomas's Calculus,"11th Edition
+2008",Pearson Education,1228,-,,A
+23/06/15,IT-421,8126508272,Erwin Kreyzig,Advanced Engineering Mathematics,"8th Edition
+2007",Willey India,1156,-,,A
+23/06/15,IT-422,70530475,Kennath H. Rosen,Discrete Mathematics and Its Applications,"5th Edition
+2006",Tata MC Graw Hill,787,-,,A
+23/06/15,IT-423,8177581201,"Bernanrd Kolman
+Robert C. Busby",Discrete Mathematical Structures,2007,Pearson Education,520,195/-,,A
+23/06/15,IT-424,9.78007E+12,"Seymour Lipschutz
+Marc Lars Lipson",Discrete Mathematics Schaum's Outlines,"3rd Edition
+2010",Tata MC Graw Hill,,-,,A
+23/06/15,IT-425,195667522,Norman L. Biggs,Discrete Mathematics,"2nd Edition
+2003",Oxford University Press,425,275,,A
+23/06/15,IT-426,9.78812E+12,V. Sundara Pandian,Probability Statistics and Queueing Theory,2009,PHI India,809,425,,A
+23/06/15,IT-427,9.78813E+12,"Anthony Croff
+Robert Davison
+Martin Hargreaves",Engineering Mathematics,"3rd Edition
+2009",Pearson Education,969,-,,A
+23/06/15,IT-428,8131201376,John Bird,Higher Engineering Mathematics,"4th Edition
+2006",Newnes,704,395/-,,A
+23/06/15,IT-429,9.78813E+12,Richard Johnsonbaugh,Discrete Mathematics,"6th Edition
+2009",Pearson Education,688,-,,A
+23/06/15,IT-430,9.78812E+12,S. S. Sastry,Engineering Mathematics,"4th Edition
+Vol.-1
+2008",PHI India,676,295/-,,A
+23/06/15,IT-431,8125913629,"N Ch SN Iyenger
+V. M. Chandrasekaran",Discrete Mathematics,2005,Vikas Publishing,376,195/-,,A
+23/06/15,IT-432,9.78007E+12,Kenneth H. Rosen,Discrete Mathematics and Its Applications,"6th Edition
+2007",Tata MC Graw Hill,787,-,,A
+23/06/15,IT-433,70473765,Seymour Lipschutz Marc Lars Lipson,Discrete Mathematics,2002,Tata MC Graw Hill,404,-,,A
+23/06/15,IT-434,9.78813E+12,Williams Stallings,Cryptography and Network Security,"5th Edition
+2011",Pearson Education,743,-,,A
+23/06/15,IT-435,812033129X,Brijendra Singh,Network Security and Management,2007,PHI India,277,225,,A
+23/06/15,IT-436,9.78007E+12,Behrouz A. Forouzan,Cryptography and Network Security,2008,Tata MC Graw Hill,721,-,,A
+23/06/15,IT-437,9.78007E+12,"Behrouz A. Forouzan
+Debdeep Mukhopadhyay",Cryptography and Network Security,"2nd Edition
+2010",Tata MC Graw Hill,702,-,,A
+23/06/15,IT-438,8177584251,Matt Bishop,Introduction to Computer Security,2007,Pearson Education,585,-,,A
+23/06/15,IT-439,8126503890,"Bruce Schneier
+Niels Ferguson",Practical Cryptography,2006,Willey India,410,-,,A
+23/06/15,IT-440,8177580116,Williams Stallings,Cryptography and Network Security,"3rd Edition
+2007",Pearson Education,686,-,,A
+23/06/15,IT-441,9.78007E+12,Atul Kahate,Cryptography and Network Security,"2nd Edition
+2009",Tata MC Graw Hill,541,-,,A
+23/06/15,IT-442,230332781,P. S. Gill,Cryptography and Network Security,2011,Macmillan,288,285,,A
+23/06/15,IT-443,7.8812E+11,Harish Chander,Cybe Lauss and IT Protection,2012,PHI India,267,325/-,,A
+23/06/15,IT-444,8120330188,William Feller,Cryptography and Network Security,"4th Edition
+2006",PHI India,680,295/-,,A
+23/06/15,IT-445,230332781,P. S. Gill,Cryptography and Network Security,2011,Macmillan,288,285,,A
+23/06/15,IT-446,9.78126E+12,Atul Kahate,Cryptography and Network Security,2013,Tata MC Graw Hill,501,-,,A
+23/06/15,IT-447,70494835,Atul Kahate,Cryptography and Network Security,2006,Tata MC Graw Hill,435,-,,A
+23/06/15,IT-448,9.78813E+12,Bruice Schnier,Applied Cryptography,2008,Willey India,758,-,,A
+23/06/15,IT-449,9.78818E+12,William Stallings,Cryptography and Network Security,"4th Edition
+2009",Pearson Education,680,-,,A
+23/06/15,IT-450,70994773,Albert Paul Malvino,Digital Computer Electronics,"2nd Edition
+1993",Tata MC Graw Hill,337,-,,A
+24/06/15,IT-451,8185749604,"Dr. B. R. Gupta
+V. Singhal",Digital Electonics,2005,S. K. Kataria and Sons,490,165,,A
+24/06/15,IT-452,9.78813E+12,"Sanjay Silakari
+Rajesh K. Shukla",Basic Computer Engineering,"2nd Edition
+2013",Willey India,452,-,,A
+24/06/15,IT-453,8183550223,,GATE 2016 Computer Science,2005,G. K. Publications,,520,,A
+24/06/15,IT-454,,,GATE '99 Computer Science and Engineering,1999,Brilliant Tutorials,,-,,A
+24/06/15,IT-455,8126508302,Phillip A. Laplante,Real Time System Design and Analysis,"3rd Edition
+2008",Willey India,504,-,,A
+24/06/15,IT-456,74637126,Alexis Leon,Enterprise Resourse Planning,2004,Tata MC Graw Hill,308,-,,A
+24/06/15,IT-457,74634828,R. K. Taxali,PC Software for Windows Made Simple,2000,Tata MC Graw Hill,678,-,,A
+24/06/15,IT-458,70593566,Timothy  J. Willams,MCQ's Computer Science,"2nd Edition
+2006",Tata MC Graw Hill,334,-,,A
+24/06/15,IT-459,812241267X,B. Ram,Computer Fundamentals,"3rd Edition
+2005",New Age International,,-,,A
+24/06/15,IT-460,9.78813E+12,Dr. Kumar Saurabh,Cloud Computing,"2nd Edition
+2012",Willey India,219,-,,A
+24/06/15,IT-461,9.78813E+12,"Sanjay Siakari
+Rajesh K. Shukla",Basic Computer Engineering ,"2nd Edition
+2013",Willey India,452,-,,A
+24/06/15,IT-462,9971511541,Resnick Halliday Krane,Physics,"4th Edition
+Vol.-1",Willey India,592,-,,A
+24/06/15,IT-463,9.78813E+12,Lamba V. K.,Neuro Fuzzy Systems,2008,Universities Science Press,158,100,,A
+24/06/15,IT-464,,"Sujata Pandey
+Manoj Pandey",VLSI Design,2004,Dhanpat Rai Publications,,140,,A
+24/06/15,IT-465,9.7007E+11,E. Balagurusamy,Fundamentals of Computers,2010,Tata MC Graw Hill,476,-,,A
+24/06/15,IT-466,195656326,Betty Kirkpatrick,The Concise Oxford : The Saurcy,2003,Oxford University Press,,-,,A
+24/06/15,IT-467,201095289,John J. Craig,Introduction to Robotics,1989,Addison Wesley,450,-,,A
+24/06/15,IT-468,9.78067E+12,N. R. Narayanmurthy,"A. Better India
+A Better World",2009,,290,499,,A
+24/06/15,IT-469,140200053,H. G. Wells,A Short history of The World,,,,-,,A
+24/06/15,IT-470,8122202071,Martin Gardner,Classic Brain Teasers,,,94,35,,A
+24/06/15,IT-471,,Mohanlal,Reader's Digest,,,,-,,A
+24/06/15,IT-472,,WIPRO,Mission 10X,-,-,-,-,,A
+24/06/15,IT-473,,WIPRO,Mission 10X,-,-,-,-,,A
+24/06/15,IT-474,,,The Basic Computer,-,-,-,-,,A
+24/06/15,IT-475,9.78007E+12,"Asoke K. Talakder
+Hasan Ahmed",Mobile Computing,"2nd Edition
+2014",Tata MC Graw Hill,627,-,,A
+24/06/15,IT-476,9.78938E+11,"Larry L. Peterson
+Bruce S. Davie",Computer Networks,"5th Edition
+2011",Morgan Kaufmann,884,-,,A
+24/06/15,IT-477,9.78126E+12,Achyut Godbole,Demystifying Computers,2013,Tata MC Graw Hill,-,-,,A
+24/06/15,IT-478,9.78007E+12,V. Raghavan,Principles of Compiler Design,2014,Tata MC Graw Hill,581,-,,A
+24/06/15,IT-479,9.78933E+12,Abhiram G. Ranade,An Introduction to Programming Through C++,2014,Tata MC Graw Hill,470,-,,A
+24/06/15,IT-480,9.78007E+12,Anthony T. Velte,Cloud Computing,2015,Tata MC Graw Hill,334,-,,A
+24/06/15,IT-481,,,Applied Cryptography,-,CRC Press,780,-,,A
